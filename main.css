@@ -1,0 +1,125 @@
+.full {
+    height: 100%;
+    display: grid;
+    align-items: center;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+
+}
+
+.Left {
+
+    padding-left: 200px;
+}
+
+:Right {
+    text-align: center;
+}
+
+.input_1 {
+    font-size: 20px;
+    padding: 14px 16px;
+    width: 500px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+    font-family: Helvetica, Arial, sans-serif;
+    height: 60px;
+}
+
+.input_1:focus {
+    border: 1px solid rgb(1, 80, 226) !important;
+}
+
+.Pass_Word {
+    font-size: 20px;
+    padding: 14px 16px;
+    width: 500px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+    font-family: Helvetica, Arial, sans-serif;
+    height: 60px;
+}
+
+.Pass_Word:focus {
+    border: 1px solid rgb(8, 86, 232);
+}
+
+
+.New_account {
+    text-align: center;
+}
+
+.Button_1 {
+    color: white;
+    font-family: inherit;
+    background-color: #3827a7;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 500px;
+
+}
+
+.Button_1:hover {
+    background-color: rgb(24, 36, 203);
+    cursor: pointer;
+
+}
+
+.forget_pass {
+    text-align: left;
+    direction: ltr;
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.Input {
+    text-align: center;
+}
+
+.button_2 {
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    background-color: #42ba17;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    white-space: nowrap;
+
+}
+
+.button_2:hover {
+    background-color: #56c82c;
+}
+
+.uneti {
+    font-size: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-weight: 500;
+    color: #021d34;
+}
+
+.connect {
+    font-size: 30px;
+    color: #087ade;
+    margin-top: 0px;
+    justify-content: center;
+}
+
+
+.img {
+    margin-bottom: 10px;
+
+}
+
+.img2 {
+    font-weight: full;
+}
