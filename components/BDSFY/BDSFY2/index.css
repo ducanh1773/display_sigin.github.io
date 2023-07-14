@@ -1,0 +1,48 @@
+.bdsfy_side1{
+    display: flex;
+    justify-content: center;
+    padding-left: 38px;
+    
+}
+
+.Main_bdsfy{
+    padding-right: 36px;
+    padding-bottom: 36px;
+}
+
+.openMore{
+    display: flex;
+    justify-content: center;
+}
+
+.openMore_1{
+    
+    width: 150px;
+    height: 40px;
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: white;
+    cursor: pointer;
+}
+.openMore_1:hover{
+    background-color: rgba(185, 179, 179, 0.05);
+}
+
+.openMore_3{
+    display: flex;
+    justify-content: center;
+}
+
+.openMore_2{
+    width: 150px;
+    height: 40px;
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: white;
+    cursor: pointer;
+}
+
+.openMore_2:hover{
+    background-color: rgba(185, 179, 179, 0.05);
+}
+

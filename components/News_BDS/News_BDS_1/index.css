@@ -1,0 +1,32 @@
+.Tin_nổi_bật{
+    width: 458px;
+    height: 365px;
+
+}
+
+.img_bds{
+    width: 458px;
+    height: 257px;
+}
+
+.LinkSubjectNews{
+    text-decoration: none;
+}
+
+.Subject_News{
+   width: 458px;
+   height: 64px; 
+   text-decoration: none;
+   color: black;
+   font-size:24px;
+   text-transform: capitalize;
+   
+}
+
+.AllNews{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 161px;
+}
+

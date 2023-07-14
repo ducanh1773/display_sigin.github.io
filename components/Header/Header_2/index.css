@@ -1,0 +1,105 @@
+
+.link{
+    text-decoration: none;
+    color: black;
+    
+}
+.nvBar3{
+    display: none;
+    position: absolute;
+    
+    border: 1px;
+    border-color: black;
+    z-index: 2;
+    
+    
+}
+
+.dropdown{
+    background-color: white;
+    
+    font-size: 14px;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px 0 rgba(0,0, 0, 0.4);
+}
+
+.dropdown2:hover{
+    background-color: rgb(230, 219, 219);
+}
+
+.drodown:hover{
+    background-color: white;
+    
+}
+
+.nvBar2:hover .nvBar3{
+    display:block;
+    text-decoration: none;
+}
+
+.nvBar3{
+    text-align: left;
+    
+
+}
+
+.NaviBar1{
+    text-decoration: none;
+    border-color: black;
+    
+}
+.NaviBar1:hover{
+    background-color: rgb(231, 230, 230);
+}
+.nvbar4{
+    position: relative;
+    font-weight: 600;
+    width:100%;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+.nvbar4:after {
+    content: '';
+    position: absolute;
+    width:100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #c52121;
+    transform-origin: bottom right;
+    transition: transform 0.25s ;
+  }
+  
+  .nvbar4:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+
+.nvBar2{
+    padding-left: 10px;
+    border: 1px;
+    color: black;
+    font-size: 16px;
+    background-color: white;
+    
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.NaviBar1{
+    padding-left: 10px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+
+

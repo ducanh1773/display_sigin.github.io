@@ -1,0 +1,35 @@
+.img_dnTB {
+    position: relative;
+    display: inline-block;
+    filter: grayscale(100%);
+    width: 165px;
+    height: 108px;
+    
+  }
+  
+  
+  
+  .img_dnTB:hover {
+    transition: all 1s ease;
+    filter: grayscale(0%);
+  } 
+
+  .Reppresentative{
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-bottom: 200px;
+  }
+
+  .last_page{
+    background-color: rgb(247, 244, 244);
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+  }
+
+  .Link_sub{
+    padding-right: 100px;
+  }
+  
+  

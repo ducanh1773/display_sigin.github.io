@@ -1,0 +1,42 @@
+.BDS_DD_IMG_1{
+    width: 290px;
+    height: 190px;
+}
+
+.BDS_DD_link{
+    width: 290px;
+    height: 190px;
+    text-decoration: none;
+}
+
+.BDS_DD_link:hover{
+    
+    text-decoration-line: underline ;
+    color: #fff;
+}
+
+.BDS_DD_IMG{
+    width: 290px;
+    height: 7px;
+}
+
+.bds_dd_subject{
+    padding-left: 10px;
+}
+
+.bds_dd_subject_1{
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.bds_dd_subject_2{
+    color: #fff;
+    margin-top: 0;
+    font-size: 14px;
+}
+
+
+
+
+

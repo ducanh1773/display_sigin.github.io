@@ -1,0 +1,75 @@
+.BDS_DD_Main_link{
+    text-decoration: none;
+}
+
+.BDS_DD_Main_link:hover{
+    
+    text-decoration-line: underline ;
+    color: #fff;
+}
+.BDS_DD_Right{
+    width: 651px;
+    height: 440px;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-top: 87px;
+}
+
+.BDS_DD_IMG_1_Main{
+    width: 554px;
+    height: 410px;
+}
+
+.BDS_DD_IMG_Main{
+    width: 554px;
+    height: 5px;
+}
+.bds_dd_subject_Main{
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.bds_dd_subject_1_Main{
+    color: white;
+    font-size: 20px;
+    margin-bottom:0 ;
+}
+
+.bds_dd_subject_2_Main{
+    color: white;
+    margin-top: 0;
+    font-size: 14px;
+}
+
+.BDS_DD_Main1{
+    display: flex;
+   justify-content: center;
+   padding-top: 100px;
+}
+
+.BDS_DD_Main2{
+    padding-right: 35px;
+}
+
+.bt_dd_main{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.bt_dd2{
+    color: black;
+    text-decoration: none;
+}
+.bt_dd{
+    width: 162px;
+    height: 25px;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    cursor: pointer;
+
+}
+.bt_dd1{
+   padding-right: 10px;
+}
